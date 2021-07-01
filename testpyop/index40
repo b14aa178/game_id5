@@ -1,0 +1,2 @@
+# def_op('INPLACE_DIVIDE', 58)
+a /= 1

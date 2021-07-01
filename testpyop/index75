@@ -1,0 +1,2 @@
+# def_op('LIST_APPEND', 94)
+[i for i in a]

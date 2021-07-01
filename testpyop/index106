@@ -1,0 +1,2 @@
+# def_op('RAISE_VARARGS', 130)    # Number of raise arguments (1, 2, or 3)
+raise

@@ -1,0 +1,3 @@
+# def_op('WITH_CLEANUP', 81)
+with a:
+    pass

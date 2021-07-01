@@ -1,0 +1,3 @@
+# def_op('RETURN_VALUE', 83)
+def a():
+    return

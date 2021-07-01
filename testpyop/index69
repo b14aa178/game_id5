@@ -1,0 +1,3 @@
+# def_op('END_FINALLY', 88)
+with a:
+    pass

@@ -1,0 +1,2 @@
+# def_op('INPLACE_AND', 77)
+a &= 1

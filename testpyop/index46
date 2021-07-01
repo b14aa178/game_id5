@@ -1,0 +1,2 @@
+# def_op('BINARY_AND', 64)
+a & 1

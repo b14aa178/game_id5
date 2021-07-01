@@ -1,0 +1,2 @@
+# def_op('INPLACE_MODULO', 59)
+a %= 1

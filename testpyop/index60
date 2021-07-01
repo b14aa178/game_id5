@@ -1,0 +1,2 @@
+# def_op('INPLACE_OR', 79)
+a |= 1

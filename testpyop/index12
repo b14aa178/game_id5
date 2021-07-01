@@ -1,0 +1,2 @@
+# def_op('UNARY_INVERT', 15)
+a = ~a

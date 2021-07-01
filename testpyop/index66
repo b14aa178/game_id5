@@ -1,0 +1,2 @@
+# def_op('EXEC_STMT', 85)
+exec 1

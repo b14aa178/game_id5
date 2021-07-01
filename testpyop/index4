@@ -1,0 +1,2 @@
+# def_op('ROT_THREE', 3)
+(a, a, a) = (a, a, a)

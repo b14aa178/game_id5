@@ -1,0 +1,3 @@
+# jabs_op('POP_JUMP_IF_FALSE', 114)    # ""
+if True:
+    pass

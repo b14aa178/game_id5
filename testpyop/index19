@@ -1,0 +1,2 @@
+# def_op('BINARY_SUBSCR', 25)
+a[1]

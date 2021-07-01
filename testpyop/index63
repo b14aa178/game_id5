@@ -1,0 +1,3 @@
+# def_op('LOAD_LOCALS', 82)
+class a:
+    pass

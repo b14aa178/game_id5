@@ -1,0 +1,4 @@
+# def_op('DELETE_FAST', 126)      # Local variable number
+def a():
+    aa = 1
+    del aa

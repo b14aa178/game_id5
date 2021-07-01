@@ -1,0 +1,2 @@
+# def_op('DELETE_SLICE+0', 50)
+del a[:]

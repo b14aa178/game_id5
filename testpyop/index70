@@ -1,0 +1,3 @@
+# def_op('BUILD_CLASS', 89)
+class a:
+    pass

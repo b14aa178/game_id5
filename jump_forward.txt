@@ -1,0 +1,47 @@
+1108           0 LOAD_GLOBAL              0 (time)
+              3 LOAD_ATTR                0 (time)
+              6 CALL_FUNCTION            0
+              9 STORE_FAST               1 (current_time)
+
+1109          12 LOAD_GLOBAL              1 (hasattr)
+             15 LOAD_FAST                0 (self)
+             18 LOAD_CONST               1 ('last_ask_a_c_tm')
+             21 CALL_FUNCTION            2
+
+1110          24 POP_JUMP_IF_TRUE        40
+             27 LOAD_GLOBAL              2 (setattr)
+             30 LOAD_FAST                0 (self)
+             33 LOAD_CONST               1 ('last_ask_a_c_tm')
+             36 LOAD_CONST               2 (0)
+             39 CALL_FUNCTION            3
+             42 POP_TOP             
+             43 JUMP_FORWARD             0 (to 46)
+        >>   46 LOAD_FAST                1 (current_time)
+             49 LOAD_FAST                0 (self)
+             52 LOAD_ATTR                3 (last_ask_a_c_tm)
+             55 BINARY_SUBTRACT     
+             56 LOAD_GLOBAL              4 (GK)
+             59 LOAD_ATTR                5 (DM)
+             62 LOAD_ATTR                6 (global_data)
+             65 LOAD_CONST               3 ('ask_note_tm')
+             68 BINARY_SUBSCR       
+
+1113          69 COMPARE_OP               0 (<)
+             72 POP_JUMP_IF_FALSE       73
+             75 LOAD_GLOBAL              7 (False)
+             78 RETURN_VALUE        
+             79 LOAD_GLOBAL              8 (True)
+             82 RETURN_VALUE        
+
+
+
+--------code--------
+7400006a00008300007d01007401007c00006401008302007328007402007c0000640100640200830300016e00007c01007c00006a0300187404006a05006a0600640300196b00007249007407005374080053
+
+
+    def check_ask_player_cil_butcher_data(self):
+        current_time = time.time()
+        if current_time - self.last_ask_a_c_tm < GK.DM.global_data['ask_note_tm']:
+            return False
+        return True
+

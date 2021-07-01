@@ -1,0 +1,2 @@
+# def_op('BUILD_SLICE', 133)      # Number of items
+a[::]

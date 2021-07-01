@@ -1,0 +1,2 @@
+# def_op('BINARY_LSHIFT', 62)
+a << 1

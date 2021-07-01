@@ -1,0 +1,6 @@
+# jabs_op('CONTINUE_LOOP', 119)   # Target address
+while True:
+    try: 
+        continue
+    except: 
+        pass

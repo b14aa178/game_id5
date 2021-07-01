@@ -1,0 +1,2 @@
+# jabs_op('JUMP_IF_FALSE_OR_POP', 111) # Target byte offset from beginning of code
+0 and False

@@ -1,0 +1,8 @@
+# jrel_op('SETUP_EXCEPT', 121)    # ""
+# jrel_op('SETUP_FINALLY', 122)   # ""
+try:
+    pass
+except:
+    pass
+finally:
+    pass

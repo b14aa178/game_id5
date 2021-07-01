@@ -1,0 +1,2 @@
+# def_op('STORE_SLICE+2', 42)
+a[:2] = 1

@@ -1,0 +1,2 @@
+# def_op('INPLACE_SUBTRACT', 56)
+a -= 1

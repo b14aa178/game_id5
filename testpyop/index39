@@ -1,0 +1,2 @@
+# def_op('INPLACE_MULTIPLY', 57)
+a *= 1

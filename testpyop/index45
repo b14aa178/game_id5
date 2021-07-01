@@ -1,0 +1,2 @@
+# def_op('BINARY_RSHIFT', 63)
+a >> 1

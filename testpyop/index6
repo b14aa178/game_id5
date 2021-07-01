@@ -1,0 +1,2 @@
+# def_op('ROT_FOUR', 5)
+a[2:4] += 'abc'

@@ -1,0 +1,2 @@
+# def_op('PRINT_NEWLINE_TO', 74)
+print >> fd, 1

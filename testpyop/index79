@@ -1,0 +1,4 @@
+# name_op('DELETE_GLOBAL', 98)    # ""
+def a():
+    global aa
+    del aa

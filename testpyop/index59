@@ -1,0 +1,2 @@
+# def_op('INPLACE_XOR', 78)
+a ^= 1

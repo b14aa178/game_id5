@@ -1,0 +1,2 @@
+# name_op('IMPORT_FROM', 109)     # Index in name list
+from a import b

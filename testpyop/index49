@@ -1,0 +1,2 @@
+# def_op('INPLACE_POWER', 67)
+a **= 1

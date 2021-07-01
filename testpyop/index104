@@ -1,0 +1,3 @@
+# def_op('STORE_FAST', 125)       # Local variable number
+def a():
+    aa = 1

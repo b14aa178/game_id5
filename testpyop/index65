@@ -1,0 +1,2 @@
+# def_op('IMPORT_STAR', 84)
+from module import *

@@ -1,0 +1,4 @@
+# name_op('LOAD_GLOBAL', 116)     # Index in name list
+def a():
+    global b
+    return b

@@ -1,0 +1,2 @@
+# def_op('UNPACK_SEQUENCE', 92)   # Number of tuple items
+a, b = 1, 2

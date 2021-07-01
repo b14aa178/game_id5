@@ -1,0 +1,3 @@
+# def_op('BREAK_LOOP', 80)
+while True:
+    break

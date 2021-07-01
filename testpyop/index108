@@ -1,0 +1,3 @@
+# def_op('MAKE_FUNCTION', 132)    # Number of args with default values
+def a():
+    pass

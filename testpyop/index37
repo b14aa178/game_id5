@@ -1,0 +1,2 @@
+# def_op('INPLACE_ADD', 55)
+a += 1

@@ -1,0 +1,2 @@
+# def_op('COMPARE_OP', 107)       # Comparison operator
+a == a

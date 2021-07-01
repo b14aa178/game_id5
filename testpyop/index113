@@ -1,0 +1,2 @@
+# def_op('CALL_FUNCTION_KW', 141)      # #args + (#kwargs << 8)
+a(**kwargs)

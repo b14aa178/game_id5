@@ -1,0 +1,5 @@
+# jabs_op('JUMP_ABSOLUTE', 113)        # ""
+def a():
+    if b:
+        if c:
+            print('')

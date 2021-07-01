@@ -1,0 +1,4 @@
+# def_op('LOAD_FAST', 124)        # Local variable number
+def a():
+    aa = 1
+    return aa

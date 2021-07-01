@@ -1,0 +1,2 @@
+# def_op('INPLACE_RSHIFT', 76)
+a >>= 1

@@ -1,0 +1,2 @@
+# def_op('DELETE_SUBSCR', 61)
+del a[1]

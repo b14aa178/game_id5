@@ -1,0 +1,2 @@
+# def_op('DUP_TOPX', 99)          # number of items to duplicate
+b[a] += 1

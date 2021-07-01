@@ -1,0 +1,3 @@
+# jrel_op('FOR_ITER', 93)
+for i in a:
+    pass

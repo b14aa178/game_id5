@@ -1,0 +1,2 @@
+# def_op('INPLACE_LSHIFT', 75)
+a <<= 1

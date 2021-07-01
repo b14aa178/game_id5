@@ -1,0 +1,2 @@
+# def_op('BINARY_XOR', 65)
+a ^ 1

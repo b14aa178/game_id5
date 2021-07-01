@@ -1,0 +1,2 @@
+# def_op('STORE_SUBSCR', 60)
+a[1] = 1

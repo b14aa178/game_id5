@@ -1,0 +1,4 @@
+# name_op('STORE_GLOBAL', 97)     # ""
+def a():
+    global aa
+    aa = 1
